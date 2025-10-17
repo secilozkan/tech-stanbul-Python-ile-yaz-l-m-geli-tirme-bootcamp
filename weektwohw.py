@@ -156,7 +156,7 @@ for i in range(2,1001):
         asal_sayilar.append(i)
 print(f"asallar:{asal_sayilar}")
 """
-
+æ
 
 
 
